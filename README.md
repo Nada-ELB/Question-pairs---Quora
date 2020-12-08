@@ -12,8 +12,3 @@ As results this model achieves 83%45 validation accuracy, with a log-loss value 
 
 Note: This approach was developed using Google Colaboratory with GPU accelerator, synced with Google Drive for file integration.
 
-
-Resources :
-1st Place Solution
-Some Online Interesting Solutions
-How to predict Quora Question Pairs Using Siamese Manhattan LSTM
